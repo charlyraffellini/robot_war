@@ -2,7 +2,7 @@
 #          This code is just an example
 #========================================================
 
-Parsimmon = require "Parsimmon"
+Parsimmon = require "parsimmon"
 
 regex = Parsimmon.regex
 string = Parsimmon.string

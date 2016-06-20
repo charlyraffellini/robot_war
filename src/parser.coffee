@@ -4,7 +4,7 @@ Robot = include "src/Robot"
 Position = include "src/Position"
 Empty = include "src/Empty"
 
-Parsimmon = require "Parsimmon"
+Parsimmon = require "parsimmon"
 
 regex = Parsimmon.regex
 string = Parsimmon.string
