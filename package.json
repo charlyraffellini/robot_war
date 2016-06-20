@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "mocha --watch --compilers coffee:coffee-script/register"
+    "test": "mocha --compilers coffee:coffee-script/register"
   },
   "author": "charlyraffellini",
   "license": "ISC",
