@@ -11,7 +11,7 @@ To run the REPL `npm start`
 
 The commands which this understand are:
 
-Be careful all index are 0-base
+Be careful, all indexes are 0-base
 
 - **create a new Board:** new Board \<x size> \<y size>
 - **create a new Robot:** new Robot \<x position> \<y position>
