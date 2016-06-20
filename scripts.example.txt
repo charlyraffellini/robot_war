@@ -1,0 +1,15 @@
+new Board 8 8
+new Robot 5 5 top
+0: PPMMNN
+run
+
+##############################
+
+new Board 7 7
+new Robot 1 1 top
+new Robot 7 7 top
+new Robot 0 1 top
+new Robot 2 1 left
+3: MM
+1: PMPMM
+run
