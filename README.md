@@ -5,9 +5,9 @@
 
 This is a REPL for play Robot War
 
-First run `npm install`
+First `npm install`
 
-For run the REPL `npm start`
+To run the REPL `npm start`
 
 The commands which this understand are:
 
