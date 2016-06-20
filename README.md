@@ -19,6 +19,9 @@ In order to avoid any ambiguity the _spin order_ follows the [right hand rule](h
 - **N** means the robot spin one negative unit.
 
 
+[![Robot War Video](https://gifs.com/gif/nodejs-robot-war-repl-L9V8qj)](https://youtu.be/RwR9jAzHqe0)
+
+
 ---
 
 ### Used tools:
