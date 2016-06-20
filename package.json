@@ -15,7 +15,8 @@
     "colors": "^1.1.2",
     "include": "^0.1.2",
     "lodash": "*",
-    "parsimmon": "^0.7.1"
+    "parsimmon": "^0.7.1",
+    "single-line-log": "^1.1.1"
   },
   "devDependencies": {
     "mocha": "^2.3.4",
