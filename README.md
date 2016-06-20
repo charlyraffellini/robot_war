@@ -18,6 +18,7 @@ In order to avoid any ambiguity the _spin order_ follows the [right hand rule](h
 - **P** means the robot spin one positive unit.
 - **N** means the robot spin one negative unit.
 
+### Video running an example:
 
 [![Robot War Video](https://j.gifs.com/L9V8qj.gif)](https://youtu.be/RwR9jAzHqe0)
 
