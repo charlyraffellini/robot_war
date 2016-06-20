@@ -9,14 +9,14 @@ The commands which this understand are:
 
 Be careful all index are 0-base
 
-- *create a new Board:* new Board \<x size> \<y size>
-- *create a new Robot:* new Robot \<x position> \<y position>
-- *add new robot path:* \<robot id or name> : [P | N | M]*
-- *run:* run
+- **create a new Board:** new Board \<x size> \<y size>
+- **create a new Robot:** new Robot \<x position> \<y position>
+- **add new robot path:** \<robot id or name> : [P | N | M]*
+- **run:** run
 
 In order to avoid any ambiguity the _spin order_ follows the [right hand rule](https://en.wikipedia.org/wiki/Right-hand_rule):
-- *P* means the robot spin one positive unit.
-- *N* means the robot spin one negative unit.
+- **P** means the robot spin one positive unit.
+- **N** means the robot spin one negative unit.
 
 
 ---
