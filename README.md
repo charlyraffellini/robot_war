@@ -14,7 +14,7 @@ The commands which this understand are:
 Be careful, all indexes are 0-base
 
 - **create a new Board:** new Board \<x size> \<y size>
-- **create a new Robot:** new Robot \<x position> \<y position>
+- **create a new Robot:** new Robot \<x position> \<y position> \<facing>
 - **add new robot path:** \<robot id or name> : [P | N | M]*
 - **run:** run
 
